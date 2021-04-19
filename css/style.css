@@ -12,6 +12,11 @@ body
 	overflow-x: hidden;
 }
 
+.roadmap
+{
+	max-width: 1300px;
+	margin-top: 0;
+}
 .logo-img {
 	max-height: 200px;
 	max-width: 200px;
